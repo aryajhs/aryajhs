@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola, I'm  Arya Gupta👋
 
-<!--
-**aryajhs/aryajhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on ... Full Stack Website.
+- 🌱 I’m currently learning ...React. 
+- 👯 I’m looking to collaborate on ...LinkedIn.
+- 🤔 I’m looking for help with ...Back-end.
+- 💬 Ask me about ...JAVA and Tech related stuff.
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: ...He/His
+- ⚡ Fun fact: ...I am a amalgamationn of geek,Nerd and weeb.
+ 
