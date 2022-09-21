@@ -21,8 +21,7 @@
 
 - ⚡ Fun fact **I am a amalgamation of geek, Nerd and Weeb.**
 
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
