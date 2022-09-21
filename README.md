@@ -21,6 +21,9 @@
 
 - ⚡ Fun fact **I am a amalgamation of geek, Nerd and Weeb.**
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aryan-gupta-2a44921b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-gupta-2a44921b7/" height="30" width="40" /></a>
