@@ -1,86 +1,59 @@
- <h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👾 Welcome to My GitHub Profile! 🎮
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryajhs&label=Profile%20views&color=0e75b6&style=flat" alt="aryajhs" /> </p>
+![GitHub Banner](https://your-banner-url.com)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## Hi there! I'm [Your Name] 👋
 
-- 🔭 I’m currently working on **Full-stack web development projects**.
+I'm a passionate game developer dedicated to creating immersive and engaging gaming experiences. With a knack for turning ideas into playable adventures, I specialize in [mention your specialties like gameplay mechanics, AI programming, 3D modeling, etc.].
 
-- 🌱 I’m currently learning **React, Angular, and C#** to enhance my skills further.
+- 🎓 Studied [Your Degree] at [Your University]
+- 🏢 Currently working at [Your Company]
+- 🌟 Favorite Tools: [Unity, Unreal Engine, Blender, etc.]
+- 🌱 Currently learning [new technology or skill]
+- 🕹️ Always ready to discuss the latest in gaming tech!
 
-- 👯 I’m looking to collaborate on **open-source projects** and connect with fellow developers on **LinkedIn**.
+## 🔧 Skills & Tools
 
-- 🤝 I’m looking for help with **backend development** to complement my frontend expertise.
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-100000?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-100000?style=for-the-badge&logo=blender&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-100000?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white)
 
-- 💬 Ask me about **JAVA, Data structures, and Game Development**. I'm always happy to share my knowledge!
+## 🎮 Projects
 
-- 📫 How to reach me: Feel free to drop me an email at **aryajhs08@gmail.com**. I'd love to hear from you!
+### [Project Name](https://your-project-url.com)
+![Project Image](https://your-project-image-url.com)
+A brief description of your project. What it does, the technologies used, and any other relevant info.
 
-- ⚡ Fun fact: **I am a combination of a geek, nerd, and weeb, with a profound love for technology and anime!**
+### [Another Project](https://your-project-url.com)
+![Project Image](https://your-project-image-url.com)
+Another brief description of your project.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/aryan-gupta-2a44921b7/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/arya_0x06/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/aryagupta08/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/IamGravE#5746" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
+## 🌐 Connect with Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" />
-  </a>
-  <a href="https://www.csharp.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40" />
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" />
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![Twitter](https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryajhs&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-</p>
+## 📈 GitHub Stats
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryajhs&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryajhs" alt="GitHub Streak" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
+## 🏆 Achievements
+
+- 🚀 [Achievement 1]
+- 🏅 [Achievement 2]
+- 🌟 [Achievement 3]
+
+## 💡 Fun Fact
+
+Did you know? [Insert a fun fact related to gaming or your personal interests]
+
+---
+
+🎉 Thanks for visiting! Don't forget to check out my repositories and drop a ⭐ if you like what you see!
