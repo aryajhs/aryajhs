@@ -2,14 +2,14 @@
 
 ![GitHub Banner](https://your-banner-url.com)
 
-## Hi there! I'm [Your Name] 👋
+## Hi there! I'm Aryan Gupta 👋
 
 I'm a passionate game developer dedicated to creating immersive and engaging gaming experiences. With a knack for turning ideas into playable adventures, I specialize in [mention your specialties like gameplay mechanics, AI programming, 3D modeling, etc.].
 
-- 🎓 Studied [Your Degree] at [Your University]
-- 🏢 Currently working at [Your Company]
+- 🎓 Studied Computer Science  at GLA University 
+- 🏢 Currently working at MetaLineX
 - 🌟 Favorite Tools: [Unity, Unreal Engine, Blender, etc.]
-- 🌱 Currently learning [new technology or skill]
+- 🌱 Currently learning BlockChain Game Development
 - 🕹️ Always ready to discuss the latest in gaming tech!
 
 ## 🔧 Skills & Tools
