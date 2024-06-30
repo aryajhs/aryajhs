@@ -24,7 +24,7 @@ I'm a passionate game developer dedicated to creating immersive and engaging gam
 ## 🎮 Projects
 
 ### [Project Name](https://your-project-url.com)
-![Project Image](https://ibb.co/kydkX0W)
+![Project Image](<a href="https://ibb.co/kydkX0W"><img src="https://i.ibb.co/kydkX0W/Screenshot-2024-06-29-170810.png" alt="Screenshot-2024-06-29-170810" border="0"></a>)
 A brief description of your project. What it does, the technologies used, and any other relevant info.
 
 ### [Another Project](https://your-project-url.com)
